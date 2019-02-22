@@ -1,3 +1,4 @@
-<view>
-  this is a blank page lol
+<view>  Hello,World!    
+  <navigator url="/pages/hah/index" hover-class="navigator-hover">跳转到新页面  
+  </navigator>
 </view>
